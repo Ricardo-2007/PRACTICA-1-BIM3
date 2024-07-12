@@ -1,3 +1,15 @@
+/*
+ 
+   Fundacion Kinal
+   Centro educativo tecnico laboral Kinal
+   Quinto perito
+   Quinto electronica
+   Codigo Tecnico: EB4AM 
+   Curso: Taller de electronica digital y reparacion de computadoras I
+   Proyecto: contador de revoluciones 
+   Dev: Ricardo Andres Rodriguez de León-2023100
+   Fecha: 12/07/2024
+*/
 #include <Wire.h>    
 #include <LiquidCrystal_I2C.h>
 
